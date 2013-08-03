@@ -1,0 +1,21 @@
+####################
+# Ignore tools logs
+####################
+eclimd.log
+
+######################
+# Ignore build output
+######################
+bin/
+gen/
+
+####################
+# Ignore IDE files
+####################
+*.swp
+workbench.xmi
+
+#################################
+# Ignore machine dependent files
+#################################
+local.properties
